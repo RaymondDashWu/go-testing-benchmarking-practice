@@ -13,3 +13,5 @@ func Calculate(x int) (result int) {
 func main() {
 	fmt.Println("Hello World")
 }
+
+// go test
